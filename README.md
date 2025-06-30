@@ -2,7 +2,7 @@
 
 A simple CLI tool to check, toggle, and monitor the IPv6 status on your macOS network.  
 
-[中文使用说明 →](./README-CN.md)
+[中文使用说明 →](./README_CN.md)
 
 <br/>
 
@@ -13,7 +13,7 @@ A simple CLI tool to check, toggle, and monitor the IPv6 status on your macOS ne
 - Real-time connectivity test (Cloudflare IPv6: https://[2606:4700::6810:474])
   
 <img width="1016" alt="Image" src="https://github.com/user-attachments/assets/a2b7c973-36bb-40e4-be19-e9a3c4ee3baa" />
-<img width="1016" alt="Image" src="https://github.com/user-attachments/assets/2f6e372a-c8eb-4b27-ad2c-414dd1d9fc4c" />
+<img width="1035" alt="image" src="https://github.com/user-attachments/assets/706c4389-9aa0-4a1e-ace8-756f047063c8" />
 
 ## How to use
 
