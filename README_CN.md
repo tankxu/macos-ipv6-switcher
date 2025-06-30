@@ -16,8 +16,12 @@
 <img width="1035" alt="Image" src="https://github.com/user-attachments/assets/a950400e-d145-4f5e-ad8b-20d780c4784a" />
 
 ## 如何使用
+### 方法 1: 安装应用
+1. [下载 IPv6 Switcher 应用](https://github.com/tankxu/macos-ipv6-switcher/releases/download/v1.0.0/IPv6.Switcher.CN.zip)
+2. 第一次打开时，可能需要右键点击 App，选择“打开”以通过系统安全校验。
 
-### •	快速体验（推荐）
+
+### 方法 2: 快速体验（推荐）
 
 > **警告：请先阅读脚本内容再运行！**
 
@@ -25,7 +29,8 @@
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/tankxu/macos-ipv6-switcher/main/ipv6-switcher-cn.sh)"
 ```
 
-### •	手动下载安装
+
+### 方法 3: 手动下载安装
 1.	下载脚本：
 ```bash
 git clone https://github.com/tankxu/macos-ipv6-switcher.git
