@@ -26,6 +26,7 @@ show_status() {
   ipv6_pub=$(ifconfig "$main_dev" | grep inet6 | grep -v fe80 | awk '{print $2}' | xargs)
 
   echo "Welcome to use IPv6 Switcher!"
+  echo "Author: https://x.com/tankxu"
   echo "-----------------------------"
   echo "Active interface: $main_dev"
   echo "Service name: $service"
