@@ -17,14 +17,21 @@ A simple CLI tool to check, toggle, and monitor the IPv6 status on your macOS ne
 
 ## How to use
 
-### •	Quick run
+### Option 1: Install App
+1. [Download IPv6 Switcher](https://github.com/tankxu/macos-ipv6-switcher/releases/download/v1.0.0/IPv6.Switcher.zip)
+2. Open the App
+
+
+### Option 2: Quick run
 
 > **Warning**: Always review downloaded scripts before running them!
 
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/tankxu/macos-ipv6-switcher/main/ipv6-switcher.sh)"
 ```
-### •	Manual installation
+
+
+### Option 3:	Manual installation
 1.	Download the script(s):
 ```bash
 git clone https://github.com/tankxu/macos-ipv6-switcher.git
